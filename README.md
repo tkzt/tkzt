@@ -2,9 +2,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=boring-plans.boring-plans)
 
-
-### Some Works
-
 - 🏠 My [homepage](https://boring-plans.github.io/)
 - 📜 My [blog site](https://boring-plans.github.io/boring-blogs)
 - 🎯 [DDT Sharp Shooter](https://github.com/boring-plans/ddt-sharp-shooter)
