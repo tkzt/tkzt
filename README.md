@@ -1,14 +1,11 @@
-### Hi another carbon based living being  👋
+### Hello.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=boring-plans.boring-plans)
 
 
-#### Boring plans in 2022
+### Some Works
 
-* [ ] 👾Titan Admin
-* [x] 🏠 An awesome [homepage](https://boring-plans.github.io/)
-* [x] 📜 Rebuild [blog site](https://boring-plans.github.io/boring-blogs)
-* [x] 🎯 [DDT Sharp Shooter](https://github.com/boring-plans/ddt-sharp-shooter)
-* [x] 📅 [Boring Days](https://boring-plans.github.io/boring-days)                        
-* [ ] ...
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=boring-plans&show_icons=true&bg_color=37,B39DDB,26C6DA&theme=radical&title_color=C2185B"/> 
+- 🏠 My [homepage](https://boring-plans.github.io/)
+- 📜 My [blog site](https://boring-plans.github.io/boring-blogs)
+- 🎯 [DDT Sharp Shooter](https://github.com/boring-plans/ddt-sharp-shooter)
+- 📅 [Boring Days](https://boring-plans.github.io/boring-days)
