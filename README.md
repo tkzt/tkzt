@@ -1,5 +1,5 @@
 ### Hello.
 
-Let's do something :/
+Let's do something : /
 
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=boring-plans.boring-plans)
