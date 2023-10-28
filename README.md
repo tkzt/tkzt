@@ -1,3 +1,3 @@
 \-
 
-🦀Rusting & 💻Harding working..
+🦀Rusting & 💻Hard working..
