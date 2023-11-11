@@ -1,3 +1,3 @@
 \-
 
-🦀Rusting & 💻Hard working..
+🦀Rustifying & 💻Hard working..
