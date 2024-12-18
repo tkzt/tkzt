@@ -1,1 +1,3 @@
-![tkzt-github-cards.png](tkzt-github-cards.png)
+<p align="center">
+<img src="tkzt-github-cards.png" width="37%" />
+</p>
